@@ -1,4 +1,4 @@
-#My List of Plans
+# My List of Plans
 1. Plan to take and pass GCE
 2. Plan to stay on top of TOP 
 3. Plan to study as much as possible
