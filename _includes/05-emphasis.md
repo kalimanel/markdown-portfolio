@@ -1,7 +1,7 @@
-*This text will be italic*
-_This will also be italic_
+*Where there is a will there is a way*
+_This is also italic_
 
-**This text will be bold**
+**Taking bold steps are for certain to accomplish profoundly**
 __This will also be bold__
 
-_You **can** combine them_
+_All the **foregoing** is on the line_
